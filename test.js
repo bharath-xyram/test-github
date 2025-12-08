@@ -1,2 +1,2 @@
 TextDecoderStream.java
-cancelAnimationFrame=navigatorgit 
+cancelAnimationFrame=navigator
